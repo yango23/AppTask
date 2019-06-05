@@ -1,0 +1,6 @@
+
+
+1, Marokko, 375, Kabyshev.G.V, 14.05.2019
+
+AppInf{id=1, flyNumber='Marokko', destination='375', name='Kabyshev.G.V', flyDate='14.05.2019'}1, Marokko, 375, Kabyshev.G.V, 14.05.2019
+AppInf{id=1, flyNumber='Marokko', destination='375', name='Kabyshev.G.V', flyDate='14.05.2019'}
